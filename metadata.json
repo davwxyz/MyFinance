@@ -1,0 +1,6 @@
+{
+  "name": "My Finance",
+  "description": "Smart personal finance and savings app with intelligent budgeting, expense tracking, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
